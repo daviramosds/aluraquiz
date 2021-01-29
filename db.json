@@ -6,8 +6,8 @@
         {
             "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
             "title": "Como criar uma variável em Javascript?",
-            "description": "Essa é pra aquecer",
-            "answer": 2,
+            "description": "",
+            "answer": 0,
             "alternatives": [
                 "var a = 1",
                 "let a == 1",
@@ -17,12 +17,15 @@
         },
         {
             "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-            "title": "Como fazer um background gradiente com css?",
-            "description": "Faz tempo em haha",
-            "answer": 0,
+            "title": "Como criar uma função em Javascript?",
+            "description": "",
+            "answer": 2,
             "alternatives": [
-                "background: linear-gradient(#e66465, #9198e5);",
-                "background: gradient(#e66465, #9198e5);"
+                "create function funcao()",
+                "new funcao()",
+                "function funcao()",
+                "def funcao()",
+                "public class testefuncao"
             ]
         }
     ],
@@ -39,6 +42,5 @@
             "success": "#4CAF50"
         },
         "borderRadius": "4px"
-    },
-    "projectUrl" : "https://github.com/daviramosds/aluraquiz"
+    }
 }
